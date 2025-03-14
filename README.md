@@ -12,4 +12,7 @@
 | 참여 인원 | 깃허브 링크 |
 |----------|-------------|
 |백재우 | |
-|연예림 | ![연예림]([https://github.com/yinneu?tab=repositories](https://avatars.githubusercontent.com/u/99879845?v=4))|
+|연예림 | |
+|한상은 | |
+|박유진 | |
+|김주언 | |
