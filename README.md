@@ -8,6 +8,8 @@
 
 코드잇 동료들과 매주 만나 생각을 나누며, 자유로운 분위기 속에서 서로의 인사이트를 공유했습니다.
 
+<br/>
+
 ## 📅미션 일정
 |Mission| Descrption|Date|
 |--------|----------|-----|
@@ -20,16 +22,21 @@
 |spoon 7 | - 구글이 밝힌 탁월한 팀의 비결 <br> - 쾌속 학습팀 <br> - 프로젝트 확률론 <br> - 애자일 | 2025-04-25|
 |SPOON 8 | - 애자일의 씨앗 <br> - 애자일 도입 성공 요인 분석 <br> - 당신의 조직에서 새 방법론이 먹히지 않는 이유 <br> - 애자일을 애자일스럽게 도입하기 | 2025-05-02|
 
+<br/>
+
 ## ✨스터디 회고
 
-'[함께 자라기](https://www.yes24.com/Product/Goods/67350256?pid=123487&cosemkid=go15446056295385363&utm_source=google_pc&utm_medium=cpc&utm_campaign=book_pc&utm_content=ys_240530_google_pc_cc_book_pc_11809%EB%8F%84%EC%84%9C&utm_term=%ED%95%A8%EA%BB%98%EC%9E%90%EB%9D%BC%EA%B8%B0&gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goPiUdGMvkL75ZElGabnrM703pj-aTBD_0T7g2FEhdv6g7x8XGb9O-RoC4sUQAvD_BwE)' 책을
+- '[함께 자라기](https://www.yes24.com/Product/Goods/67350256?pid=123487&cosemkid=go15446056295385363&utm_source=google_pc&utm_medium=cpc&utm_campaign=book_pc&utm_content=ys_240530_google_pc_cc_book_pc_11809%EB%8F%84%EC%84%9C&utm_term=%ED%95%A8%EA%BB%98%EC%9E%90%EB%9D%BC%EA%B8%B0&gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goPiUdGMvkL75ZElGabnrM703pj-aTBD_0T7g2FEhdv6g7x8XGb9O-RoC4sUQAvD_BwE)' 책을
 바탕으로 서로의 생각을 공유하며 성장하는 것을 목표로 한 스터디였습니다.
 
-코드잇 백엔드 부트캠프 동료들과 함께 매주 디스코드에서 만나, 책의 주요 챕터를 읽고 인상 깊었던 부분이나
+- 코드잇 백엔드 부트캠프 동료들과 함께 매주 디스코드에서 만나, 책의 주요 챕터를 읽고 인상 깊었던 부분이나
 느낀점을 이야기했습니다.
 
-스터디를 주도하며 자유로운 토론 분위기, 경청의 자세, 지속적인 피드백 수렴을 중요하게 생각했고,
+- 스터디를 주도하며 자유로운 토론 분위기, 경청의 자세, 지속적인 피드백 수렴을 중요하게 생각했고,
 8주간 꾸준히 운영되었습니다.
+
+
+<br/>
 
 관심 있으신 분은 회고글을 통해 자세한 스터디 운영 과정과 느낀 점을 확인하실 수 있습니다.
 
@@ -45,6 +52,8 @@
 |한상은 | [silvarge](https://github.com/silvarge) |
 |박유진 | [yudility](https://github.com/yudility) |
 |김주언 | [wndjs803](https://github.com/wndjs803) |
+
+<br/>
 
 ### 📂폴더명 규칙
 - 소문자 예시 (jaewoo)
