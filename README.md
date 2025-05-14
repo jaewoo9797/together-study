@@ -1,12 +1,14 @@
-# together-study
+# 🍦together-study
 투게더 스터디
 
-## 스터디 소개
+## 📖스터디 소개
 함께 자라기 책을 읽고 생각을 정리하고 성장하는 방법에 대해서 함께 학습한다.
 
 최근 다양한 사람들과 정보를 공유하고 소통하는 것의 중요성을 깨달았습니다. 이에 코드잇 스프린터분들과도 공유하고 소통하고 싶었습니다. 공유하는 문화를 ‘함께 자라기’ 책을 읽으면서 한 층 더 생각을 깊어지게 만들고 싶어서 스터디를 개설했습니다.  
 
-## 미션 일정
+코드잇 동료들과 매주 만나 생각을 나누며, 자유로운 분위기 속에서 서로의 인사이트를 공유했습니다.
+
+## 📅미션 일정
 |Mission| Descrption|Date|
 |--------|----------|-----|
 |spoon 1 | 아이스브레이킹, 스터디 진행 회의 | 2025-03-14|
@@ -18,17 +20,34 @@
 |spoon 7 | - 구글이 밝힌 탁월한 팀의 비결 <br> - 쾌속 학습팀 <br> - 프로젝트 확률론 <br> - 애자일 | 2025-04-25|
 |SPOON 8 | - 애자일의 씨앗 <br> - 애자일 도입 성공 요인 분석 <br> - 당신의 조직에서 새 방법론이 먹히지 않는 이유 <br> - 애자일을 애자일스럽게 도입하기 | 2025-05-02|
 
-## 참여인원
-| 참여 인원 | 깃허브 링크 |
-|----------|-------------|
-|백재우 | |
-|연예림 | |
-|한상은 | |
-|박유진 | |
-|김주언 | |
+## ✨스터디 회고
 
-### 폴더명 규칙
+'[함께 자라기](https://www.yes24.com/Product/Goods/67350256?pid=123487&cosemkid=go15446056295385363&utm_source=google_pc&utm_medium=cpc&utm_campaign=book_pc&utm_content=ys_240530_google_pc_cc_book_pc_11809%EB%8F%84%EC%84%9C&utm_term=%ED%95%A8%EA%BB%98%EC%9E%90%EB%9D%BC%EA%B8%B0&gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goPiUdGMvkL75ZElGabnrM703pj-aTBD_0T7g2FEhdv6g7x8XGb9O-RoC4sUQAvD_BwE)' 책을
+바탕으로 서로의 생각을 공유하며 성장하는 것을 목표로 한 스터디였습니다.
+
+코드잇 백엔드 부트캠프 동료들과 함께 매주 디스코드에서 만나, 책의 주요 챕터를 읽고 인상 깊었던 부분이나
+느낀점을 이야기했습니다.
+
+스터디를 주도하며 자유로운 토론 분위기, 경청의 자세, 지속적인 피드백 수렴을 중요하게 생각했고,
+8주간 꾸준히 운영되었습니다.
+
+관심 있으신 분은 회고글을 통해 자세한 스터디 운영 과정과 느낀 점을 확인하실 수 있습니다.
+
+### 🔗회고글 바로가기
+👉[스터디 투게더 회고 - 함께 자라기](https://doitwojae.tistory.com/entry/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%88%AC%EA%B2%8C%EB%8D%94-%ED%9A%8C%EA%B3%A0-%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0)
+
+
+## 👥참여인원
+| 참여 인원 | 깃허브 링크                                  |
+|----------|-----------------------------------------|
+|백재우 | [jaewoo9797](https://github.com/jaewoo9797)                                    |
+|연예림 | [yinneu](https://github.com/yinneu)     |
+|한상은 | [silvarge](https://github.com/silvarge) |
+|박유진 | [yudility](https://github.com/yudility) |
+|김주언 | [wndjs803](https://github.com/wndjs803) |
+
+### 📂폴더명 규칙
 - 소문자 예시 (jaewoo)
 
-### 파일명 규칙
+### 📄파일명 규칙
 - 01(주차)_spoon.md
