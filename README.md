@@ -43,8 +43,8 @@
 
 관심 있으신 분은 회고글을 통해 자세한 스터디 운영 과정과 느낀 점을 확인하실 수 있습니다.
 
-### 🔗회고글 바로가기
-👉[스터디 투게더 회고 - 함께 자라기](https://doitwojae.tistory.com/entry/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%88%AC%EA%B2%8C%EB%8D%94-%ED%9A%8C%EA%B3%A0-%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0)
+## 🔗회고글 바로가기
+### 👉[스터디 투게더 회고 - 함께 자라기](https://doitwojae.tistory.com/entry/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%88%AC%EA%B2%8C%EB%8D%94-%ED%9A%8C%EA%B3%A0-%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0)
 
 <br/>
 
